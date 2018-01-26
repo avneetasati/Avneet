@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13237" started-at="२०१८-०१-२१T१९:१७:१२Z" finished-at="२०१८-०१-२१T१९:१७:२५Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13237" started-at="२०१८-०१-२१T१९:१७:१२Z" finished-at="२०१८-०१-२१T१९:१७:२५Z">
+      <class name="com.org.learningMaven.HelloWorldTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.org.learningMaven.HelloWorldTest@783e6358]" name="test" duration-ms="13224" started-at="२०१८-०१-२२T००:४७:१२Z" finished-at="२०१८-०१-२२T००:४७:२५Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.org.learningMaven.HelloWorldTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
