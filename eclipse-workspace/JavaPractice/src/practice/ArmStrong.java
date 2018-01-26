@@ -6,7 +6,7 @@ public class ArmStrong {
 	public static void main(String [ ]args) {
 		
 		int r,c=0;
-		int n=153;
+		int n=351;
 		int temp = n;
 				while(n>0)
 				{
